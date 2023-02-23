@@ -1,0 +1,7 @@
+  _   _  ___  _        _    
+ | | | |/ _ \| |      / \   
+ | |_| | | | | |     / _ \  
+ |  _  | |_| | |___ / ___ \ 
+ |_| |_|\___/|_____/_/   \_\
+El programa fue realizado utilizando el lenguaje de Go, se puede correr de forma local.
+Támbien si se desea hacer una prueba sin problemas en la siguiente plataforma: https://www.tutorialspoint.com/execute_golang_online.php
